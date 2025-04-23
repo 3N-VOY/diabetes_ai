@@ -75,4 +75,4 @@ Can we predict diabetes status based on patients’ clinical measurements?
 5. Run all cells to reproduce the analysis.
 
 ## References
-   * [Healthcare-Diabetes Dataset on Kaggle](https://python.langchain.com/docs/introduction/](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes)
+   * [Healthcare-Diabetes Dataset on Kaggle](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes)
