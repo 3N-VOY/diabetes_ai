@@ -74,5 +74,8 @@ Can we predict diabetes status based on patients’ clinical measurements?
   ```
 5. Run all cells to reproduce the analysis.
 
+## Author
+Analysis by 3N-VOY (Alexander Xagoraris)
+
 ## References
    * [Healthcare-Diabetes Dataset on Kaggle](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes)
